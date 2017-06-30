@@ -1,2 +1,2 @@
 # gridworld_gui
-General purpose grid worl gui. Extension on aima python
+General purpose grid world gui. Extension built on aima python MDP. 
